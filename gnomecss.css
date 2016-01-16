@@ -1,0 +1,58 @@
+html{
+	font-family: caviar dreams;
+	margin-left: 20%;
+	margin-right: 20%;
+	position: fixed;
+	
+}
+
+.intro{
+	border:solid 0px #080707;
+	background:#444545;
+	height: 25%;
+	width: 100%;
+	color: white;
+	left: 0%;
+	position: absolute;
+	
+	
+
+}
+h1{
+	font-family: andale mono;
+	font-size: 550%;
+	color: #f4d90b;
+	top:50%;
+	left:5%;
+	position: absolute;
+	text-transform: uppercase;
+	
+}
+.trouble{
+	top:20%;
+	left:165%;
+	position: absolute;
+	
+}
+.presentation{
+	float:left;
+	top: 5%;
+	left: 40px;
+	position: absolute;
+	
+}
+.p1{
+	font-size:xx-large;
+	position: absolute;
+	
+}
+span{
+	font-style: italic;
+	position: absolute;
+	
+}
+.intropic{
+	position: absolute;
+	top:
+	
+}
