@@ -1,58 +1,76 @@
-html{
+body{
 	font-family: caviar dreams;
 	margin-left: 20%;
 	margin-right: 20%;
-	position: fixed;
-	
+	background-color: aliceblue;
 }
 
-.intro{
-	border:solid 0px #080707;
+header{
 	background:#444545;
 	height: 25%;
-	width: 100%;
-	color: white;
-	left: 0%;
+}
+.title{
+	text-transform: uppercase;
+	color: #f0d956;
+	margin-top: 70px;
+	margin-left: 2%;
 	position: absolute;
-	
-	
 
 }
-h1{
-	font-family: andale mono;
-	font-size: 550%;
-	color: #f4d90b;
-	top:50%;
-	left:5%;
+header p{
+	margin-top: 85px;
+	margin-left: 30%;
 	position: absolute;
-	text-transform: uppercase;
-	
+	color: white;
 }
-.trouble{
-	top:20%;
-	left:165%;
-	position: absolute;
-	
+.home {
+    background-image: url("big_img.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    font-size: large;
+    padding-left: 2%;
+    padding-top: 10px;
+    margin-top: 20px;
+    background-size: contain;
 }
-.presentation{
-	float:left;
-	top: 5%;
-	left: 40px;
-	position: absolute;
-	
+.home p{
+	margin-top: -4px;
+	margin-left: 2%;
 }
-.p1{
-	font-size:xx-large;
-	position: absolute;
-	
+.main{
+	background-color: white;
+	padding-left: 3%;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	background-size: contain;
+	margin-top: -120px;
+	line-height: 30px;
 }
-span{
-	font-style: italic;
-	position: absolute;
-	
+.detail{
+	border: black solid 2px;
+	width:10%;
+	border-radius: 30%;
+	height: 30px;
+	padding-top: 2%;
+	color: white;
+	background-color: black;
+	text-align: center;
+
 }
-.intropic{
-	position: absolute;
-	top:
-	
+.setting{
+	margin-left: 14px;
+	padding: 10%;
+	background-color: white;
+	margin-top:20px;
+	vertical-align: top;
+	text-align: center;
+	background-size: cover;
+}
+.set{
+	width: 32%;
+	display: inline-block;
+}
+.set img{
+	width: 30%;
+	height: auto;
 }
