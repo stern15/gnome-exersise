@@ -112,3 +112,17 @@ header p{
 	margin-left: 80%;
 	
 }
+.ad{
+	width: 100%;
+	background-color: #34f24a;
+	height: 90px;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	padding-top: 90px;
+}
+.last{
+	background-color: white;
+	padding: 5%;
+	margin-top: 20px;
+}
