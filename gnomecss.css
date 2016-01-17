@@ -43,14 +43,14 @@ header p{
 	padding-top: 10px;
 	padding-bottom: 30px;
 	background-size: contain;
-	margin-top: -120px;
+	margin-top: -50px;
 	line-height: 30px;
 }
 .detail{
 	border: black solid 2px;
 	width:10%;
 	border-radius: 30%;
-	height: 30px;
+	height: 40px;
 	padding-top: 2%;
 	color: white;
 	background-color: black;
@@ -58,19 +58,57 @@ header p{
 
 }
 .setting{
-	margin-left: 14px;
-	padding: 10%;
 	background-color: white;
-	margin-top:20px;
+	padding: 6%;
+	background-size: contain;
+	margin-top: 20px;
+	line-height: 30px;
 	vertical-align: top;
-	text-align: center;
-	background-size: cover;
 }
 .set{
+	text-align: center;
 	width: 32%;
 	display: inline-block;
 }
 .set img{
 	width: 30%;
 	height: auto;
+}
+.phone{
+	background-color: white;
+	padding: 10%;
+	margin-top: 20px;
+
+}
+.phone p{
+	width: 30%;
+	float: left;
+    display: inline-block;
+}
+.phone img{
+	width: auto;
+	padding-left: 10%;
+	display: inline-block;
+	margin-top: -100px;
+}
+.shoes{
+	background-color: white;
+	padding: 10%;
+	margin-top: 20px;
+
+}
+.shoes p{
+	width: 30%;
+	float: right;
+    display: inline-block;
+}
+.phone img{
+	width: auto;
+	padding-left: 10%;
+	display: inline-block;
+	margin-top: -85px;
+}
+.shoes h2{
+	margin-left: 80%;
+	
 }
